@@ -441,7 +441,7 @@ Please change the parent <Route path="${g}"> to <Route path="${g==="/"?"*":`${g}
 Этажность: 1 этаж
 Диаметр каркаса: 6 м
 Высота в коньке: 3,7 м
-Толщина стен: 145 мм`,image:"/images/products/strato-d6/main.jpg",specs:{area:28,diameter:6,height:3.7,floors:1,wallThickness:"145 мм"},prices:{frame:18e4,kit:0},features:["Болтовые замки","Сухой лес"],kitIncludes:M},{id:"strato-d6h",name:"Купольный каркас D6 High",categoryId:"dome",seriesId:"strato",material:"WOOD",description:"Высокий 6м под антресоль.",fullDescription:`Общая Площадь: 42 м2*
+Толщина стен: 145 мм`,image:"/images/products/Kupol/Kupol D/D6.png",specs:{area:28,diameter:6,height:3.7,floors:1,wallThickness:"145 мм"},prices:{frame:18e4,kit:0},features:["Болтовые замки","Сухой лес"],kitIncludes:M},{id:"strato-d6h",name:"Купольный каркас D6 High",categoryId:"dome",seriesId:"strato",material:"WOOD",description:"Высокий 6м под антресоль.",fullDescription:`Общая Площадь: 42 м2*
 Площадь 1 этажа: 28 м2
 Этажность: 1.5
 Диаметр каркаса: 6 м
