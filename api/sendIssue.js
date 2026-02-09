@@ -2,7 +2,10 @@
 export default async function handler(req, res) {
   // 1. Настраиваем CORS для разрешения запросов с ваших доменов
   // ЗАМЕНИТЕ 'ekodompro.vercel.app' на ваш Production Domain из панели Vercel!
-  const allowedOrigins = [ 'https://ekodompro.vercel.app'];
+  const allowedOrigins = [ 'https://gkekodompro.ru',
+    'https://ekodompro.vercel.app',
+    'https://ekodompro-git-main-shweds-projects.vercel.app',
+    'https://ekodompro-klnu6y8rx-shweds-projects.vercel.app'];
   const origin = req.headers.origin;
   if (allowedOrigins.includes(origin)) {
     res.setHeader('Access-Control-Allow-Origin', origin);
